@@ -2,123 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # About Me
 
-I recently recieved my bachelor's in Electrical Engineering (Communications field) from Sharif University of technology, Tehran, Iran. 
-I am eager to pursue my education either in communications engineering or computer science and am looking for relevant positions in Germany.
+I recently recieved my bachelor's in Electrical Engineering (Communications Systems subfield) from Sharif University of technology, Tehran, Iran. 
+
+I wish to pursue my education either in communications engineering or computer science and am looking for relevant positions in Germany.
+
+# Research Interests
+
+I am interested in computer vision, deep learning and more specifically, I love exploring possible applications of machine learning in communications systems field.
 
 # Research Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+In summer 2022, I joined _Signal Processing lab_ at _Technichal University of Munich_ as a research intern under the supervision of Prof. Wolfgang Utschick and Julia Sistermans (PhD student). I explored region of interest detection methods (more specifically, RCNNs) to detect white blood cells in digital holographic images of blood.
 
-### Header 3
+During summer and fall 2021, I worked in _Machine Learning and Optimization Labratory_ at EPFL as a research intern under the supervision of Prof. Martin Jaggi and Dr. Hartley. My work was implementing unsupervised and self-supervised algorithms for learning useful representations from lung audio sounds to cluster these sounds based on the breathing cycle and pathologies and compare the results with the doctors’ annotations.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Moreover, as my bachelor's project at Sharif University of Technology, I implemented the method proposed in the paper _“Deep-Learning Based End-to-End Communication Systems using GANs as Channel Models”_ .

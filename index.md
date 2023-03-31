@@ -4,9 +4,9 @@ layout: default
 
 # About Me
 
-I recently recieved my bachelor's in Electrical Engineering (Communications Systems subfield) from Sharif University of technology, Tehran, Iran. 
+I recently recieved my bachelor's in Electrical Engineering (Communications Systems subfield) from Sharif University of Technology, Tehran, Iran. 
 
-I wish to pursue my education either in communications engineering or computer science and am looking for relevant positions in Germany.
+I wish to pursue my educations either in communications engineering or computer science and am looking for relevant positions in Germany.
 
 # Research Interests
 

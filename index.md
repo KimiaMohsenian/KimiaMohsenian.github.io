@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I recently recieved my bachelor's in Electrical Engineering (Communications Systems subfield) from Sharif University of Technology, Tehran, Iran. 
+I recently recieved my bachelor's in Electrical Engineering -communications systems subfield- from Sharif University of Technology, Tehran, Iran. 
 
 I wish to pursue my educations either in communications engineering or computer science and am looking for relevant positions in Germany.
 
@@ -18,7 +18,7 @@ In summer 2022, I joined _Signal Processing lab_ at _Technichal University of Mu
 
 During summer and fall 2021, I worked in _Machine Learning and Optimization Labratory_ at EPFL as a research intern under the supervision of Prof. Martin Jaggi and Dr. Hartley. My work was implementing unsupervised and self-supervised algorithms for learning useful representations from lung audio sounds to cluster these sounds based on the breathing cycle and pathologies and compare the results with the doctors’ annotations.
 
-Moreover, as my bachelor's project at Sharif University of Technology, I implemented the method proposed in the paper _“Deep-Learning Based End-to-End Communication Systems using GANs as Channel Models”_  in which I became skilled both in working with GAN models and also implementation of a communications system.
+Moreover, as my bachelor's project at Sharif University of Technology, I implemented the method proposed in the paper _“Deep-Learning Based End-to-End Communication Systems using GANs as Unknown Channel Models”_. During this project, I became familiar both with GANs' architecture and implementation of a communication system model with PyTorch.
 
 # Contact
 

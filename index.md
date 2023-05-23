@@ -14,7 +14,7 @@ I am interested in communications engineering, computer vision, deep learning an
 
 # Research Experience
 
-In summer 2022, I joined _Signal Processing lab_ at _Technichal University of Munich_ as a research intern under the supervision of Prof. Wolfgang Utschick and Julia Sistermanns (PhD student). I explored region of interest detection methods (more specifically, RCNNs) to detect white blood cells in digital holographic images of blood.
+In summer 2022, I joined _methods of Signal Processing lab_ at _Technichal University of Munich_ as a research intern under the supervision of Prof. Wolfgang Utschick and Julia Sistermanns (PhD student). I explored region of interest detection methods (more specifically, RCNNs) to detect white blood cells in digital holographic images of blood.
 
 During summer and fall 2021, I worked in _Machine Learning and Optimization Labratory_ at EPFL as a research intern under the supervision of Prof. Martin Jaggi and Dr. Hartley. My work was implementing unsupervised and self-supervised algorithms for learning useful representations from lung audio sounds to cluster these sounds based on the breathing cycle and pathologies and compare the results with the doctors’ annotations.
 

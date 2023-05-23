@@ -10,7 +10,7 @@ I wish to pursue my educations either in Communications Engineering or Computer 
 
 # Research Interests
 
-I am interested in computer vision, deep learning and more specifically, I love exploring possible applications of machine learning in communications systems field.
+I am interested in communications engineering, computer vision, deep learning and more specifically, I love exploring possible applications of machine learning in communications systems field.
 
 # Research Experience
 

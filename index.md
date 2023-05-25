@@ -23,5 +23,5 @@ Moreover, as my bachelor's project at Sharif University of Technology, I impleme
 # Contact
 
 *   Email: mohseniankimia@gmail.com
-*   <a href=https://github.com/KimiaMohsenian> GitHub </a>
-*   <a href=https://www.linkedin.com/in/kimia-mohsenian-a0aa2a1b0> LinkedIn </a>
+*   [GitHub] (https://github.com/KimiaMohsenian)
+*   [LinkedIn] (https://www.linkedin.com/in/kimia-mohsenian-a0aa2a1b0)

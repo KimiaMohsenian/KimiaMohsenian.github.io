@@ -24,4 +24,4 @@ Moreover, as my bachelor's project at Sharif University of Technology, I impleme
 
 *   Email: mohseniankimia@gmail.com
 *   <a href=https://github.com/KimiaMohsenian> GitHub </a>
-*   [LinkedIn](./https://www.linkedin.com/in/kimia-mohsenian-a0aa2a1b0/)
+*   <a href=https://www.linkedin.com/in/kimia-mohsenian-a0aa2a1b0> LinkedIn </a>
